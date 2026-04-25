@@ -1,10 +1,13 @@
 {
   "files": {
+    "main.css": "/sa-path-tracker/static/css/main.c0d3207b.css",
     "main.js": "/sa-path-tracker/static/js/main.39c57b99.js",
     "index.html": "/sa-path-tracker/index.html",
+    "main.c0d3207b.css.map": "/sa-path-tracker/static/css/main.c0d3207b.css.map",
     "main.39c57b99.js.map": "/sa-path-tracker/static/js/main.39c57b99.js.map"
   },
   "entrypoints": [
+    "static/css/main.c0d3207b.css",
     "static/js/main.39c57b99.js"
   ]
 }
